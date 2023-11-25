@@ -1,0 +1,5 @@
+[
+  {"nome": "Luiz" , "cpf": "101.123.321-10",  "endereco": "Av. Boa Viagem, 123" },
+  {"nome": "Bruna", "cpf": "812.243.987-10",  "endereco": "Av. Bernado Viera de Melo, 23" },
+  {"nome": "Fabio", "cpf": "123.987.222-10",  "endereco": "Av. Bernado Viera de Melo, 29" }
+]
